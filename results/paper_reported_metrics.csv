@@ -1,0 +1,6 @@
+algorithm,last50_mean_utility,sensing_error_deg,cumulative_regret,resource_utilization,convergence_slot
+Random,0.1372,7.408,170.23,0.1353,>600
+Traditional Scan,0.1889,7.394,123.70,0.1670,187
+UCB,0.1971,7.326,145.90,0.1862,190
+Static-Prior Greedy,0.1712,7.482,102.44,0.1506,30
+Prior-Guided UCB,0.2745,7.310,75.05,0.2486,30
